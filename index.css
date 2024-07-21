@@ -1,0 +1,45 @@
+body {
+    background-image: url("man.jpg");
+    background-size: cover;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #FFA812;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #6C946F
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #6C946F;
+}
+
+#save-btn {
+    background: #FFA823;
+}
+
+div {
+    border: 2px solid #6C946F;
+    width: 200px;
+    margin: 0 auto;
+}
